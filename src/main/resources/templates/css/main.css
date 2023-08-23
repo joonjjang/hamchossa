@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+.ranking-container {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: calc(100vh - 70px);
+}
+
+.burger-item {
+    margin-top:50px;
+    text-align:center;
+}
+
+footer {
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+}
